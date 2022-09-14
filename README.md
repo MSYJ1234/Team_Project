@@ -1,6 +1,6 @@
 # Team_Project
 
-### youung's github account
+### yousung's github account
 
 * https://github.com/yousung1020
 
