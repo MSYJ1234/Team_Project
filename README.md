@@ -1,9 +1,9 @@
 # Team_Project
 
-### yousung's github account
+### Yousung's github account
 
 * https://github.com/yousung1020
 
-### jeonggyu's github account
+### JeongGyu's github account
 
 * https://github.com/JeongGyul
