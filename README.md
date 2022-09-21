@@ -1,13 +1,3 @@
 # Team_Project
 
-### Yousung's github account
-
-* https://github.com/yousung1020
-
-### JeongGyu's github account
-
-* https://github.com/JeongGyul
-
-### SangIm's github account
-
-* https://github.com/Apples1243
+## git교과서 5장 서버 파트 요약 정리
