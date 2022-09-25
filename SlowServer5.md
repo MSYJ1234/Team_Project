@@ -67,23 +67,25 @@
 책에서는 1 방법으로 원격 저장소에 연결해 보겠습니다.
 1. 먼저 새 로컬 저장소를 생성하고 초기화합니다.
 
-'''git
+```git
 $ mkdir gitstudy05
 $ cd gitstudy05
 $ git init
 Initialzed empty Git repository in E:/gitstudy05/.git/
-'''
+```
+
 2. 파일을 생성합니다.
 
-'''git
+```git
 $ echo "# gitstudy05" >> README.md
-'''
+```
+
 3. add를 이용해 **스테이지에 등록하고** commit을 이용해 **커밋**합니다.
 
-'''git
+```git
 $ git add README.md
 $ git commit -m "first commit"
-'''
+```
 
 ## 4 서버 전송
 
