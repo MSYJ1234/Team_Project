@@ -97,7 +97,7 @@ $ git commit -m "first commit"
 로컬 저장소를 서버로 이용할 때는 **폴더 경로만 입력**하면 됩니다.
 
 ```git
-% git remote add 원격저장소별칭 폴더경로
+$ git remote add 원격저장소별칭 폴더경로
 ```
 
 로컬은 간단하게 원격 서버를 구축할 수 있을 뿐만 아니라 빠른 동작이 가능합니다.   
@@ -201,7 +201,7 @@ $ git remote show 원격저장소별칭
 예를 들어 다음과 같이 remote show 명령어를 실행하면 상세한 정보를 출력합니다.
 
 ```git
-예
+예시
 infoh@hojin MINGW64 /e/gitstudy05 (master)
 $ git remote show origin
 * remote origin
