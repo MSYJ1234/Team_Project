@@ -91,14 +91,14 @@ $ git commit -m "first commit"
 
 푸시를 하기 전에 아래의 명령어로 원격 저장소와 연결된 서버 목록을 확인해 봅시다.
 
-'''git
+```git
 $ git remote -v
-'''
+```
 원격 저장소가 잘 연결되어 있다면 아래 명령어를 통해 푸시를 합니다.
 
-'''git
+```git
 $ git push origin main
-'''
+```
 **origin** --> 원격 저장소 별칭, **main(내지는 master)** --> 브랜치의 이름
 
 
