@@ -29,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/65354879/193526751-90d71631-bc3a-47b3-a666-ea9beeb00e67.png" width="100" height="100"/>
 
-> GNU Project의 마스코트
+> GNU Project의 마스코트[^1]
 
 [^1]: Gnu가 소과 포유류의 총칭
 
