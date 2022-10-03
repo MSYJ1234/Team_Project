@@ -31,7 +31,7 @@
 
 > GNU Project의 마스코트[^1]
 
-[^1]: Gnu가 소과 포유류의 총칭
+[^1]: Gnu가 소과 포유류의 총칭.
 
 * 1983 : Richard Matthew Stallman에 의해 ***GNU Project***가 시작되었습니다. Richard Matthew Stallman은 첫 선언문에 이은 "GNU 선언문"을 비롯한 여러 글들을 통해서, "초기 전산 공동체에 지배적이었던, 협동 정신을 되돌리자"라고 주장했습니다.
 
