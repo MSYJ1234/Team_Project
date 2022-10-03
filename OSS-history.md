@@ -52,6 +52,6 @@
 
 * 1994 : ***GNU Project***에서 ***Linux Kernel***을 채택하고, ***GNU/Linux***로 명명되었습니다. ***Linux Kernel*** 그 자체만으로는 시스템을 구성 할 수 없기 때문에, ***GNU/Linux*** 에서 기타 프로그램 제작에 큰 기여를 하였습니다. 그리고 이것이 전세계 개발자들이 자유롭게 Linux 개발에 참여할 수 있는 토대가 마련되어, 마침내 1994년 3월에 첫 번째 완성 버전인 Linux Kernel 1.0.0이 공개되었습니다. 그 이후 RedHat, Debian 등 다양한 배포판이 등장하였습니다.
 
-* 1997 : 1997년 봄에 자유 소프트웨어 공동체 리더 모임이 캘리포니아에서 있었습니다. 이 모임에서 Tim O'Reilly(팀 오라일), Larry Augustine(래리 어거스틴), Eric Steven Raymond(에릭 스티븐 레이몬드)가 오픈소스 소프트웨어 대해 논의하였습니다. 그 후 Bruce Perens(브루스 페런스)는 OSD(Open Source Definition)을 만들었습니다.
+* 1997 : 1997년 봄에 자유 소프트웨어 공동체 리더 모임이 캘리포니아에서 있었습니다. 이 모임에서 Tim O'Reilly(팀 오라일), Larry Augustine(래리 어거스틴), Eric Steven Raymond(에릭 스티븐 레이몬드)가 오픈소스 소프트웨어 대해 논의하였습니다. 그 후 Bruce Perens(브루스 페런스)는 [OSD(Open Source Definition)](#OSD-10대-기준)을 만들었습니다.
 
 
