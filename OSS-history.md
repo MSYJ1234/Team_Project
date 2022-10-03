@@ -29,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/65354879/193526751-90d71631-bc3a-47b3-a666-ea9beeb00e67.png" width="100" height="100"/>
 
-> GNU Project의 마스코트(GNU가 소과 포유류의 총칭입니다.)
+> GNU Project의 마스코트(Gnu가 소과 포유류의 총칭)
 
 
 * 1983 : Richard Matthew Stallman에 의해 **GNU Project**가 시작되었습니다. Richard Matthew Stallman은 첫 선언문에 이은 "GNU 선언문"을 비롯한 여러 글들을 통해서, "초기 전산 공동체에 지배적이었던, 협동 정신을 되돌리자"라고 주장했습니다.
@@ -38,4 +38,6 @@
 
 ### 1990s
 
-* 여기에 이후 내용 입력
+> Linus Torvalds는 당시 자신이 보유하고 있던 인텔 80386 기반의 IBM 호환 PC에서도 미닉스(유닉스 계열 운영 체제의 하나)가 구동되기를 원했습니다. 이를 계기로 그는 미닉스를 참고한 새로운 운영체제를 개발했습니다. 그 운영체제를 밑에서 자세하게 설명 할 것입니다.
+
+* 1991 : 
