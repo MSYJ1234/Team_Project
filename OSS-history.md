@@ -23,7 +23,8 @@
 ### 1980s
 
 > 그 이후 소프트웨어 산업의 상업화로 인해 자유 소프트웨어 인식이 점차 사라질 위기에 처하기 시작했습니다. 프로그래머였던 Richard Matthew Stallman은 소프트웨어를 공공영역으로 인식했습니다. 그리고 소스코드는 컴퓨터 과학을 발전시키는 데 기본이며, 변화가 계속되고, 발전하기 위해서는 소스코드를 자유롭게 사용할 수 있어야 한다고 생각했습니다. 이러한 계기로 **GNU Project**가 시작되었고, 밑에서 자세하게 설명 할 것입니다.
-![image](https://user-images.githubusercontent.com/65354879/193526751-90d71631-bc3a-47b3-a666-ea9beeb00e67.png){: width="10" height="10"}
+
+<img src="https://user-images.githubusercontent.com/65354879/193526751-90d71631-bc3a-47b3-a666-ea9beeb00e67.png" width="50" height="50"/>
 
 
 * 1983 : Richard Matthew Stallman에 의해 **GNU Project**가 시작되었습니다. Richard Matthew Stallman은 첫 선언문에 이은 "GNU 선언문"을 비롯한 여러 글들을 통해서, "초기 전산 공동체에 지배적이었던, 협동 정신을 되돌리자"라고 주장했습니다.
