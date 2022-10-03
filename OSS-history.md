@@ -13,3 +13,11 @@
 * 특정 제품 의존성 금지(License Must Not Be Specific to a Product)
 * 다른 라이선스 포괄적 수용(License Must Not Contaminate Other Software)
 * 라이선스 기술 중립성(License Must be Technology-Neutral)
+
+## OSS history
+
+* 1970s :
+
+* 1980s :
+
+* 1990s :
