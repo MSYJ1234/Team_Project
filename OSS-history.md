@@ -82,6 +82,11 @@
 
 >https://www.nipa.kr/main/selectBbsNttView.do?key=112&bbsNo=8&nttNo=7835&bbsTy=bbs
 
+>https://it.donga.com/19504/
+
+>https://www.nepla.net/post/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC
+
+>http://terms.tta.or.kr/dictionary/dictionaryView.do?word_seq=051008-7
 
 
 ### 현재로서는 Git과 Github :octocat: 를 통하여 서로 소스코드를 공개하고 협업하여 오픈소스 소프트웨어의 발전을 돋구고 있습니다.
