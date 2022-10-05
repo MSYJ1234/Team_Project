@@ -1,9 +1,9 @@
 <h1>OSS 역사와 개요</h1>
 
-## OSS(Open Source Software)
+## 📚 OSS(Open Source Software)
 📌 라이선스에 따라 소스 코드가 공개되어 누구나 자유롭게 사용하고 수정하거나 재배포할 수 있는 소프트웨어입니다.  
 
-## OSD 10대 기준
+## 📚 OSD 10대 기준
 📌 공개 소프트웨어를 상호 관리 감독하며 지속적으로 발전할 수 있도록 참여자들이 지켜야 하는 기준입니다. 아래에 그 내용이 있습니다.
 
 * 자유 재배포(Free Redistribution)
@@ -17,7 +17,7 @@
 * 다른 라이선스 포괄적 수용(License Must Not Contaminate Other Software)
 * 라이선스 기술 중립성(License Must be Technology-Neutral)
 
-## OSS history
+## 📖 OSS history
 
 ### 1970s
 
