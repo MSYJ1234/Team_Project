@@ -1,9 +1,9 @@
 <h1>OSS 역사와 개요</h1>
 
-## OSS(Open Source Software)
+## 📚 OSS(Open Source Software)
 📌 라이선스에 따라 소스 코드가 공개되어 누구나 자유롭게 사용하고 수정하거나 재배포할 수 있는 소프트웨어입니다.  
 
-## OSD 10대 기준
+## 📚 OSD 10대 기준
 📌 공개 소프트웨어를 상호 관리 감독하며 지속적으로 발전할 수 있도록 참여자들이 지켜야 하는 기준입니다. 아래에 그 내용이 있습니다.
 
 * 자유 재배포(Free Redistribution)
@@ -17,7 +17,7 @@
 * 다른 라이선스 포괄적 수용(License Must Not Contaminate Other Software)
 * 라이선스 기술 중립성(License Must be Technology-Neutral)
 
-## OSS history
+## 📖 OSS history
 
 ### 1970s
 
@@ -25,7 +25,7 @@
 
 ### 1980s
 
-> 그 이후 소프트웨어 산업의 상업화로 인해 자유 소프트웨어 인식이 점차 사라질 위기에 처하기 시작했습니다. 프로그래머였던 Richard Matthew Stallman(리차드 스톨만)은 소프트웨어를 공공영역으로 인식했습니다. 그리고 소스코드는 컴퓨터 과학을 발전시키는 데 기본이며, 변화가 계속되고, 발전하기 위해서는 소스코드를 자유롭게 사용할 수 있어야 한다고 생각했습니다. 이러한 계기로 ***GNU Project***가 시작되었고, 밑에서 자세하게 설명 할 것입니다.
+> 1970년대 이후 소프트웨어 산업의 상업화로 인해 자유 소프트웨어 인식이 점차 사라질 위기에 처하기 시작했습니다. 프로그래머였던 Richard Matthew Stallman(리차드 스톨만)은 소프트웨어를 공공영역으로 인식했습니다. 그리고 소스코드는 컴퓨터 과학을 발전시키는 데 기본이며, 변화가 계속되고, 발전하기 위해서는 소스코드를 자유롭게 사용할 수 있어야 한다고 생각했습니다. 이러한 계기로 ***GNU Project***가 시작되었고, 밑에서 자세하게 설명 할 것입니다.
 
 <img src="https://user-images.githubusercontent.com/65354879/193526751-90d71631-bc3a-47b3-a666-ea9beeb00e67.png" width="100" height="100"/>
 
