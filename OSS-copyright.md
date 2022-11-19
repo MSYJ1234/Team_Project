@@ -16,13 +16,6 @@
 |비공개|Freeware(Winzip, RealAudio)<br>Shareware(초기에만 무료)<br>Adware(JetAudio)|상용 비공개 소프트웨어<br>(MS Office, Oracle, Shareware)|
 
 ## 주요 공개 SW 라이선스 비교
-|구분|무료 이용가능|배포<br>허용가능|소스코드<br>취득가능|소스코드<br>수정가능|2차적 저작물<br>재공개 의무|독점SW와<br>결합가능|
-|:----|:------------:|:-----------:|:----------------:|:----------------:|:---------------------:|:----------------:|
-|GPL|●|●|●|●|●|X|
-|LGPL|●|●|●|●|●|●|
-|MPL|●|●|●|●|●|●|
-|BSD license|●|●|●|●|X|●|
-|Apache license|●|●|●|●|X|●|
 
 ### GPL
 대충 GPL 얘기
@@ -34,9 +27,42 @@
 대충 MPL 얘기
 
 ### BSD
-대충 BSD 얘기
+대충 BSD license 얘기
 
 ### Apache
-대충 
+대충 Apache license 얘기
+
+|구분|무료 이용가능|배포<br>허용가능|소스코드<br>취득가능|소스코드<br>수정가능|2차적 저작물<br>재공개 의무|독점SW와<br>결합가능|
+|:----|:------------:|:-----------:|:----------------:|:----------------:|:---------------------:|:----------------:|
+|GPL|●|●|●|●|●|X|
+|LGPL|●|●|●|●|●|●|
+|MPL|●|●|●|●|●|●|
+|BSD license|●|●|●|●|X|●|
+|Apache license|●|●|●|●|X|●|
+
+## OSS license top 20
+
+|Rank|License|Usage|Risk|
+|:---|:------|:----|:---|
+|1|MIT License|32%|Low|
+|2|GNU General Public License (GPL) 2.0|18%|High|
+|3|Apache License 2.0|14%|Low|
+|4|GNU General Public License (GPL) 3.0|7%|High|
+|5|BSD License 2.0 (3-clause, New or Revised)|6%|Low|
+|6|ISC License|5%|Low|
+|7|Artistic License (Perl)|4%|Medium|
+|8|GNU Lesser General Public License (LGPL) 2.1|4%|High|
+|9|GNU Lesser General Public License (LGPL) 3.0|2%|High|
+|10|Eclipse Public License (EPL)|1%|Medium|
+|11|Microsoft Public License|1%|Medium|
+|12|Simplified BSD License (BSD)|1%|Low|
+|13|Code Project Open License 1.02|1%|Low|
+|14|Mozilla Public License (MPL) 1.1|<1%|Medium|
+|15|GNU Affero General Public License 3.0 or later|<1%|High|
+|16|Common Development and Distribution License|<1%|Medium|
+|17|Do What the Fuck You Want To Public License|<1%|Low|
+|18|Microsoft Reciprocal License|<1%|High|
+|19|Sun GPL with Classpath Exception 2.0|<1%|High|
+|20|zlib/libpng License|<1%|Low|
 
 [^1]: Open Source Software
