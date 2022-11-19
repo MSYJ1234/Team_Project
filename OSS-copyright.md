@@ -15,8 +15,7 @@
 |공개|대부분 OSS(Apache, Tomcat, JBoss|일부 배포판 OSS (Red Hat, MySQL)|
 |비공개|Freeware(Winzip, RealAudio)<br>Shareware(초기에만 무료)<br>Adware(JetAudio)|상용 비공개 소프트웨어<br>(MS Office, Oracle, Shareware)|
 
-## 주요 공개 SW 라이선스 비교
-
+## 주요 공개 SW 라이선스
 ### GPL
 대충 GPL 얘기
 
@@ -31,6 +30,9 @@
 
 ### Apache
 대충 Apache license 얘기
+
+
+## 주요 공개 SW 라이선스 비교
 
 |구분|무료 이용가능|배포<br>허용가능|소스코드<br>취득가능|소스코드<br>수정가능|2차적 저작물<br>재공개 의무|독점SW와<br>결합가능|
 |:----|:------------:|:-----------:|:----------------:|:----------------:|:---------------------:|:----------------:|
