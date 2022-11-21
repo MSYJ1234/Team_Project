@@ -111,6 +111,20 @@
 
 > react의 공식 로고
 
+* react는 페이스북에서 개발한 View단을 컨트롤하는 라이브러리 입니다. 쉽게 말하자면 UI 개발을 위한 javascript 라이브러리이며, 자세한 내용은 공식 홈페이지를 통해 확인하실 수 있습니다[^5].
+
+*  react는 2011년도에 라이브러리 개발을 하였고, 2012년에 instagram에 반영하였습니다. 그리고 2013년 5월 열린 JSConf US에서 오픈소스화 되었습니다. vscode와 마찬가지로 github에 코드가 공개되어 있습니다[^6].
+
+> 라이브러리 : 단순하게 활용 가능한 도구들의 집합입니다. 개발 주도권을 사용자가 가지고 있어, 사용자가 전체적인 흐름을 만들며 라이브러리를 가져다 쓸 수 있습니다.
+
+[^5]: https://ko.reactjs.org/
+[^6]: https://github.com/facebook/react
+
+### tensorflow
+
+
+### pytorch
+
 출처
 >https://www.oss.kr/oss_guide/show/f74f64ae-767b-4667-96bf-8a0dc8ab0082
 
