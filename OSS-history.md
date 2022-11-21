@@ -93,7 +93,23 @@
 
 * 특히 리눅스는 서버(server) 영역과 임베디드(embedded) 시스템 영역에서 막강한 영향력을 가지며 모바일 운영체제와 최근에는 데스크탑 운영체제로도 주목을 받고 있습니다. 개인 PC용으로는 우분투(ubuntu)와 민트(Mint)가 널리 알려져 있으며, 소형 임베디드 시스템에서 상대적으로 가벼운 데비안(Debian)이 많이 사용됩니다. 
 
+### 🆚code
+---
+<img src=https://user-images.githubusercontent.com/65354879/203024906-d75451e1-5be2-441a-97f4-47a5d7050451.png height=200 weight=200>    
 
+> vscode의 공식 로고
+
+* vscode는 Visual Studio Code의 줄임말이며, 마이크로소프트에서 개발하여 2016년에 출시한 ~~고급 메모장~~ IDE입니다. vscode는 기본적으로 JavaScript, TypeScript, Node.js를 지원하며, 다양한 확장(extension)을 통해 다른 언어(C, C++, C#, Java, Python, PHP, Go 등)나 런타임(.NET, Unity 등)을 지원하도록 설정할 수 있습니다. 
+
+* vscode는 오픈소스 소프트웨어로, github에 공식적으로 소스 코드가 공개되어 있습니다[^4].
+
+[^4]: https://github.com/microsoft/vscode
+
+### 📌 react
+---
+<img src=https://user-images.githubusercontent.com/65354879/203027044-1d3b3636-f39c-4421-b283-7dcf26089ddf.png weight=170 height=170>
+
+> react의 공식 로고
 
 출처
 >https://www.oss.kr/oss_guide/show/f74f64ae-767b-4667-96bf-8a0dc8ab0082
