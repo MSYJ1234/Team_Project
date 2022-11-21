@@ -124,10 +124,36 @@
 [^6]: https://ko.reactjs.org/
 [^7]: https://github.com/facebook/react
 
-### tensorflow
+### 🤖 tensorflow
 
+<img src=https://user-images.githubusercontent.com/65354879/203085483-14f7ebf2-3b6a-4bd4-afa5-72022f2fe931.png height=150 weight=150>
 
-### pytorch
+> tensorflow의 공식 로고
+
+* tensorflow는 구글에서 만든 머신러닝을 위한 오픈소스 소프트웨어 파이썬 라이브러리입니다. 
+
+* Define and Run 방식이며, 그래프를 먼저 정의하는 방식을 채택하고 있습니다.
+
+* tensorflow는 github 계정을 통해 소스코드를 공개해놨습니다[^8].
+
+[^8]: https://github.com/tensorflow/tensorflow
+
+### 🔥 pytorch
+
+![image](https://user-images.githubusercontent.com/65354879/203093309-334f3dca-0776-4a4d-9416-f933e412fc5a.png)
+
+> pytorch의 공식 로고
+
+* pytorch는 FAIR(Facebook AI Research)에서 만든 오픈 소스 머신러닝 라이브러리입니다.
+
+* Define by Run 방식이며, 실행하면서 그래프를 그리는 방식을 채택하고 있습니다. tensorflow와 목적은 비슷하지만 다른 작동 체계를 가집니다.
+
+* pytorch는 github 계정을 통해 소스코드를 공개해놨습니다[^9].
+
+<br>
+<br>
+
+[^9]: https://github.com/pytorch/pytorch
 
 출처
 >https://www.oss.kr/oss_guide/show/f74f64ae-767b-4667-96bf-8a0dc8ab0082
