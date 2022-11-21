@@ -93,7 +93,67 @@
 
 * 특히 리눅스는 서버(server) 영역과 임베디드(embedded) 시스템 영역에서 막강한 영향력을 가지며 모바일 운영체제와 최근에는 데스크탑 운영체제로도 주목을 받고 있습니다. 개인 PC용으로는 우분투(ubuntu)와 민트(Mint)가 널리 알려져 있으며, 소형 임베디드 시스템에서 상대적으로 가벼운 데비안(Debian)이 많이 사용됩니다. 
 
+* github에 리눅스 커널에 대한 소스코드가 오픈되어 있습니다[^4]. ~~리눅스 커널의 아름다운~~ 소스코드를 확인하여 보세요.
 
+[^4]: https://github.com/torvalds/linux 
+
+### 🆚code
+---
+<img src=https://user-images.githubusercontent.com/65354879/203024906-d75451e1-5be2-441a-97f4-47a5d7050451.png height=200 weight=200>    
+
+> vscode의 공식 로고
+
+* vscode는 Visual Studio Code의 줄임말이며, 마이크로소프트에서 개발하여 2016년에 출시한 ~~고급 메모장~~ IDE입니다. vscode는 기본적으로 JavaScript, TypeScript, Node.js를 지원하며, 다양한 확장(extension)을 통해 다른 언어(C, C++, C#, Java, Python, PHP, Go 등)나 런타임(.NET, Unity 등)을 지원하도록 설정할 수 있습니다. 
+
+* vscode는 오픈소스 소프트웨어로, github에 공식적으로 소스 코드가 공개되어 있습니다[^5].
+
+[^5]: https://github.com/microsoft/vscode
+
+### 📌 react
+---
+<img src=https://user-images.githubusercontent.com/65354879/203027044-1d3b3636-f39c-4421-b283-7dcf26089ddf.png weight=170 height=170>
+
+> react의 공식 로고
+
+* react는 페이스북에서 개발한 View단을 컨트롤하는 라이브러리 입니다. 쉽게 말하자면 UI 개발을 위한 javascript 라이브러리이며, 자세한 내용은 공식 홈페이지를 통해 확인하실 수 있습니다[^6].
+
+*  react는 2011년도에 라이브러리 개발을 하였고, 2012년에 instagram에 반영하였습니다. 그리고 2013년 5월 열린 JSConf US에서 오픈소스화 되었습니다. vscode와 마찬가지로 github에 코드가 공개되어 있습니다[^7].
+
+> 라이브러리 : 단순하게 활용 가능한 도구들의 집합입니다. 개발 주도권을 사용자가 가지고 있어, 사용자가 전체적인 흐름을 만들며 라이브러리를 가져다 쓸 수 있습니다.
+
+[^6]: https://ko.reactjs.org/
+[^7]: https://github.com/facebook/react
+
+### 🤖 tensorflow
+
+<img src=https://user-images.githubusercontent.com/65354879/203085483-14f7ebf2-3b6a-4bd4-afa5-72022f2fe931.png height=150 weight=150>
+
+> tensorflow의 공식 로고
+
+* tensorflow는 구글에서 만든 머신러닝을 위한 오픈소스 소프트웨어 파이썬 라이브러리입니다. 
+
+* Define and Run 방식이며, 그래프를 먼저 정의하는 방식을 채택하고 있습니다.
+
+* tensorflow는 github 계정을 통해 소스코드를 공개해놨습니다[^8].
+
+[^8]: https://github.com/tensorflow/tensorflow
+
+### 🔥 pytorch
+
+![image](https://user-images.githubusercontent.com/65354879/203093309-334f3dca-0776-4a4d-9416-f933e412fc5a.png)
+
+> pytorch의 공식 로고
+
+* pytorch는 FAIR(Facebook AI Research)에서 만든 오픈 소스 머신러닝 라이브러리입니다.
+
+* Define by Run 방식이며, 실행하면서 그래프를 그리는 방식을 채택하고 있습니다. tensorflow와 목적은 비슷하지만 다른 작동 체계를 가집니다.
+
+* pytorch는 github 계정을 통해 소스코드를 공개해놨습니다[^9].
+
+<br>
+<br>
+
+[^9]: https://github.com/pytorch/pytorch
 
 출처
 >https://www.oss.kr/oss_guide/show/f74f64ae-767b-4667-96bf-8a0dc8ab0082
