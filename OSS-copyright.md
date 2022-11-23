@@ -40,7 +40,7 @@
 > > 단, LGPL 코드를 단순히 이용하는 것이 아니라 이를 수정하거나  
 > > 이로부터 파생된 라이브러리를 개발하여 배포하는 경우에는 전체 코드를 공개해야 합니다.
 ### MPL
-![image](https://user-images.githubusercontent.com/110793635/202886655-9d8c37f3-c9d4-4c7b-a2c7-14215203b22d.png
+![image](https://user-images.githubusercontent.com/110793635/202886655-9d8c37f3-c9d4-4c7b-a2c7-14215203b22d.png)
 
 > MPL(Mozilla Public License)는 BSD License와 GPL의 혼합적 성격을 띠고 있습니다.  
 > MPL의 소스코드 공개의무는 파일 단위로 적용됩니다.  
